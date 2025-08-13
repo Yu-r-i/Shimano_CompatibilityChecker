@@ -1,0 +1,40 @@
+{
+  "parts": [
+    {
+      "id": "CS-HG700-11-11-34",
+      "category": "cassette",
+      "brand": "Shimano",
+      "series": "HG700",
+      "speed": 11,
+      "freehub": "HG11",
+      "range": [11, 34]
+    },
+    {
+      "id": "CS-R7000-11-12-25",
+      "category": "cassette",
+      "brand": "Shimano",
+      "series": "105 R7000",
+      "speed": 11,
+      "freehub": "HG11",
+      "range": [12, 25]
+    },
+    {
+      "id": "CS-HG400-9-11-32",
+      "category": "cassette",
+      "brand": "Shimano",
+      "series": "HG400",
+      "speed": 9,
+      "freehub": "HG",
+      "range": [11, 32]
+    },
+    {
+      "id": "CS-M8000-11-11-42",
+      "category": "cassette",
+      "brand": "Shimano",
+      "series": "Deore XT M8000",
+      "speed": 11,
+      "freehub": "HG",
+      "range": [11, 42]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "parts": [
+    {
+      "id": "RD-R7000-SS",
+      "category": "rear_derailleur",
+      "brand": "Shimano",
+      "series": "105 R7000",
+      "speed": 11,
+      "actuation": "road_shimano",
+      "max_sprocket": 30,
+      "capacity": 35,
+      "cage": "short"
+    },
+    {
+      "id": "RD-R7000-GS",
+      "category": "rear_derailleur",
+      "brand": "Shimano",
+      "series": "105 R7000",
+      "speed": 11,
+      "actuation": "road_shimano",
+      "max_sprocket": 34,
+      "capacity": 39,
+      "cage": "medium"
+    },
+    {
+      "id": "RD-R3000-GS",
+      "category": "rear_derailleur",
+      "brand": "Shimano",
+      "series": "Sora R3000",
+      "speed": 9,
+      "actuation": "road_shimano",
+      "max_sprocket": 34,
+      "capacity": 43,
+      "cage": "medium"
+    },
+    {
+      "id": "RD-M8000-GS",
+      "category": "rear_derailleur",
+      "brand": "Shimano",
+      "series": "Deore XT M8000",
+      "speed": 11,
+      "actuation": "mtb_dynasys11",
+      "max_sprocket": 42,
+      "capacity": 39,
+      "cage": "medium"
+    }
+  ]
+}

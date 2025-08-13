@@ -1,0 +1,46 @@
+{
+  "parts": [
+    {
+      "id": "ST-R7000",
+      "category": "shifter",
+      "brand": "Shimano",
+      "series": "105 R7000",
+      "speed": 11,
+      "actuation": "road_shimano",
+      "brake_type": "rim",
+      "mount_type": "dropbar",
+      "brake_pull": "road_caliper"
+    },
+    {
+      "id": "ST-R7020",
+      "category": "shifter",
+      "brand": "Shimano",
+      "series": "105 R7000",
+      "speed": 11,
+      "actuation": "road_shimano",
+      "brake_type": "disc",
+      "mount_type": "dropbar",
+      "brake_pull": "hydraulic"
+    },
+    {
+      "id": "ST-R3000",
+      "category": "shifter",
+      "brand": "Shimano",
+      "series": "Sora R3000",
+      "speed": 9,
+      "actuation": "road_shimano",
+      "brake_type": "rim",
+      "mount_type": "dropbar",
+      "brake_pull": "road_caliper"
+    },
+    {
+      "id": "SL-M8000-R",
+      "category": "shifter",
+      "brand": "Shimano",
+      "series": "Deore XT M8000",
+      "speed": 11,
+      "actuation": "mtb_dynasys11",
+      "mount_type": "flatbar"
+    }
+  ]
+}

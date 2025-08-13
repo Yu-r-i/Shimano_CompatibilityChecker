@@ -1,0 +1,28 @@
+{
+  "parts": [
+    {
+      "id": "CN-HG601-11",
+      "category": "chain",
+      "brand": "Shimano",
+      "series": "HG601",
+      "speed": 11,
+      "chain_type": "HG"
+    },
+    {
+      "id": "CN-HG701-11",
+      "category": "chain",
+      "brand": "Shimano",
+      "series": "HG701",
+      "speed": 11,
+      "chain_type": "HG"
+    },
+    {
+      "id": "CN-HG93-9",
+      "category": "chain",
+      "brand": "Shimano",
+      "series": "HG93",
+      "speed": 9,
+      "chain_type": "HG"
+    }
+  ]
+}

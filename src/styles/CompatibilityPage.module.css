@@ -1,0 +1,19 @@
+/**
+ * CompatibilityPage.module.css
+ */
+ 
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.title {
+  margin-bottom: 0.5rem;
+}
+
+.selectorGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+}
