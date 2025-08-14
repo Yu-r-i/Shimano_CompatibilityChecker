@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yu-r-i.github.io/Shimano_CompatibilityChecker/sitemap.xml
