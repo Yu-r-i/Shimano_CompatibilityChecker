@@ -1,6 +1,18 @@
 {
   "parts": [
     {
+      "id": "ST-R8000",
+      "category": "shifter",
+      "brand": "Shimano",
+      "series": "Ultegra R8000",
+      "speed": 11,
+      "actuation": "road_shimano",
+      "brake_type": "rim",
+      "mount_type": "dropbar",
+      "brake_pull": "road_caliper",
+      "segment": "road"
+    },
+    {
       "id": "ST-R7000",
       "category": "shifter",
       "brand": "Shimano",
@@ -21,17 +33,6 @@
       "brake_type": "disc",
       "mount_type": "dropbar",
       "brake_pull": "hydraulic"
-    },
-    {
-      "id": "ST-R3000",
-      "category": "shifter",
-      "brand": "Shimano",
-      "series": "Sora R3000",
-      "speed": 9,
-      "actuation": "road_shimano",
-      "brake_type": "rim",
-      "mount_type": "dropbar",
-      "brake_pull": "road_caliper"
     },
     {
       "id": "ST-5800",
@@ -82,16 +83,15 @@
       "segment": "road"
     },
     {
-      "id": "ST-R8000",
+      "id": "ST-R3000",
       "category": "shifter",
       "brand": "Shimano",
-      "series": "Ultegra R8000",
-      "speed": 11,
+      "series": "Sora R3000",
+      "speed": 9,
       "actuation": "road_shimano",
       "brake_type": "rim",
       "mount_type": "dropbar",
-      "brake_pull": "road_caliper",
-      "segment": "road"
+      "brake_pull": "road_caliper"
     }
   ]
 }

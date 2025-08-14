@@ -13,6 +13,19 @@
       ]
     },
     {
+      "id": "CS-R8000-11-30",
+      "category": "cassette",
+      "brand": "Shimano",
+      "series": "Ultegra R8000",
+      "speed": 11,
+      "freehub": "HG11",
+      "range": [
+        11,
+        30
+      ],
+      "segment": "road"
+    },
+    {
       "id": "CS-R7000-11-12-25",
       "category": "cassette",
       "brand": "Shimano",
@@ -23,31 +36,6 @@
         12,
         25
       ]
-    },
-    {
-      "id": "CS-HG400-9-11-32",
-      "category": "cassette",
-      "brand": "Shimano",
-      "series": "HG400",
-      "speed": 9,
-      "freehub": "HG",
-      "range": [
-        11,
-        32
-      ]
-    },
-    {
-      "id": "CS-5800-11-28",
-      "category": "cassette",
-      "brand": "Shimano",
-      "series": "105 5800",
-      "speed": 11,
-      "freehub": "HG11",
-      "range": [
-        11,
-        28
-      ],
-      "segment": "road"
     },
     {
       "id": "CS-5800-11-32",
@@ -63,15 +51,15 @@
       "segment": "road"
     },
     {
-      "id": "CS-R8000-11-30",
+      "id": "CS-5800-11-28",
       "category": "cassette",
       "brand": "Shimano",
-      "series": "Ultegra R8000",
+      "series": "105 5800",
       "speed": 11,
       "freehub": "HG11",
       "range": [
         11,
-        30
+        28
       ],
       "segment": "road"
     },
@@ -100,6 +88,18 @@
         28
       ],
       "segment": "road"
+    },
+    {
+      "id": "CS-HG400-9-11-32",
+      "category": "cassette",
+      "brand": "Shimano",
+      "series": "HG400",
+      "speed": 9,
+      "freehub": "HG",
+      "range": [
+        11,
+        32
+      ]
     }
   ]
 }

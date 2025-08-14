@@ -17,14 +17,6 @@
       "chain_type": "HG"
     },
     {
-      "id": "CN-HG93-9",
-      "category": "chain",
-      "brand": "Shimano",
-      "series": "HG93",
-      "speed": 9,
-      "chain_type": "HG"
-    },
-    {
       "id": "CN-HG600-11",
       "category": "chain",
       "brand": "Shimano",
@@ -59,6 +51,14 @@
       "speed": 10,
       "chain_type": "HG",
       "segment": "road"
+    },
+    {
+      "id": "CN-HG93-9",
+      "category": "chain",
+      "brand": "Shimano",
+      "series": "HG93",
+      "speed": 9,
+      "chain_type": "HG"
     }
   ]
 }

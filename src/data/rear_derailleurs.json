@@ -23,17 +23,6 @@
       "cage": "medium"
     },
     {
-      "id": "RD-R3000-GS",
-      "category": "rear_derailleur",
-      "brand": "Shimano",
-      "series": "Sora R3000",
-      "speed": 9,
-      "actuation": "road_shimano",
-      "max_sprocket": 34,
-      "capacity": 43,
-      "cage": "medium"
-    },
-    {
       "id": "RD-5800-SS",
       "category": "rear_derailleur",
       "brand": "Shimano",
@@ -116,6 +105,17 @@
       "capacity": 34,
       "cage": "short",
       "segment": "road"
+    },
+    {
+      "id": "RD-R3000-GS",
+      "category": "rear_derailleur",
+      "brand": "Shimano",
+      "series": "Sora R3000",
+      "speed": 9,
+      "actuation": "road_shimano",
+      "max_sprocket": 34,
+      "capacity": 43,
+      "cage": "medium"
     }
   ]
 }
