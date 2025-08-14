@@ -4,7 +4,7 @@
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
 >
     <url>
-        <loc>https://[YOUR_GH_USERNAME].github.io/[REPO_NAME]/</loc>
+        <loc>https://yu-r-i.github.io/Shimano_CompatibilityChecker/</loc>
         <lastmod>2025-08-14</lastmod>
         <priority>1.00</priority>
         <changefreq>weekly</changefreq>
@@ -13,7 +13,7 @@
     <!-- 任意: 代表的なディープリンク（SPAでも静的URLとして扱う場合のみ） -->
     <!--
   <url>
-    <loc>https://[YOUR_GH_USERNAME].github.io/[REPO_NAME]/items</loc>
+    <loc>https://yu-r-i.github.io/Shimano_CompatibilityChecker/items</loc>
     <lastmod>2025-08-14</lastmod>
     <priority>0.80</priority>
     <changefreq>weekly</changefreq>
