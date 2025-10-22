@@ -1,70 +1,93 @@
-# Getting Started with Create React App
+# Shimano Compatibility Checker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A web application that checks the compatibility between Shimano bicycle components.
 
-## Available Scripts
+This project is built with React and Node.js.  
+It allows users to search Shimano models and check compatibility between different generations or series.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Shimano Compatibility Checker helps users verify whether various Shimano bicycle components  
+(derailleurs, cassettes, cranksets, etc.) are compatible with each other.  
+Users can search for a specific model and immediately see compatibility results in the browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Model search: search Shimano parts by name or series code  
+- Compatibility check: automatically determines compatible and incompatible parts  
+- Simple and clear result display  
+- Easy to run locally with Node.js  
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Tech Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+| Category | Technology |
+|-----------|-------------|
+| Frontend | HTML, CSS, JavaScript, React |
+| Backend  | Node.js |
+| Deployment | GitHub Pages |
+| Package Manager | npm |
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## Directory Structure
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+~~~bash
+Shimano_CompatibilityChecker/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── styles/
+│   ├── App.jsx
+│   └── index.js
+├── package.json
+├── README.md
+└── .gitignore
+~~~
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Setup and Run
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Clone the repository  
+    ```bash
+    git clone https://github.com/Yu-r-i/Shimano_CompatibilityChecker.git
+    cd Shimano_CompatibilityChecker
+    ```
 
-## Learn More
+2. Install dependencies  
+    ```bash
+    npm install
+    ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+3. Start the development server  
+    ```bash
+    npm start
+    ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Then open http://localhost:3000 in your browser
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Deployment
 
-### Analyzing the Bundle Size
+1. Build the production version  
+    ```bash
+    npm run build
+    ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+2. Configure GitHub Pages to publish the `build/` directory.
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Author
+Yuri Funato  
+Kindai University - Electronic Commerce Laboratory (ECL)  
+GitHub: https://github.com/Yu-r-i
